@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on facial recognition
+- 🔭 I’m currently working on the next big thing
 - 🌱 I’m currently learning Node, ReactJS and React Native
 - 💬 Ask me about tech, programming
 
